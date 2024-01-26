@@ -1,0 +1,16 @@
+.container{
+    display: flex;
+    flex-direction: row;
+    
+}
+.search{
+ flex: 1;
+}
+.home{
+    /* flex: 1; */
+    flex: 4;
+}
+.login{
+  /* margin-left: auto;   */
+  flex: 1;
+}
